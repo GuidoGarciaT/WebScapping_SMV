@@ -1,0 +1,597 @@
+<style> .pinta {background-color:#BDBDBD; text-align:right; }</style><b><h3> Reporte de Estados Financieros</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fecha y Hora de generación: 10/03/2023 06:41:11 p.m.<div>Año: 2007 </div><div>Periodo: Anual </div><div>Empresa: CORPORACION CERVESUR S.A.A. </div><div>Tipo: Consolidada </div><div style='background-color:#0B2F3A'><font color='white'></font> </div><div style='background-color:#086A87'><font color='white'>Estados Financieros</font></div></b><br /><form method="post" action="./ReporteEstadosFinanciero.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+<span style="font-weight:bold;">BALANCE GENERAL</span><div>
+	<table cellspacing="0" align="Right" rules="all" border="1" id="gvReporte" style="width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#337AB6;font-family:Calibri;font-size:8pt;">
+			<th scope="col">Cuenta</th><th scope="col" style="white-space:nowrap;">NOTA</th><th scope="col" style="white-space:nowrap;">2007</th><th scope="col" style="width:50px;white-space:nowrap;">2006</th>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Activo</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Activo Corriente</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Efectivo y Equivalentes de efectivo</td><td style="width:50px;white-space:nowrap;">4</td><td style="width:50px;white-space:nowrap;">19,908</td><td style="width:50px;white-space:nowrap;">63,673</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Inversiones Financieras</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">49,050</td><td style="width:50px;white-space:nowrap;">52,241</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Activos Financieros al Valor Razonable con cambios en Ganancias y P&#233;rdidas</td><td style="width:50px;white-space:nowrap;">5</td><td style="width:50px;white-space:nowrap;">49,050</td><td style="width:50px;white-space:nowrap;">52,241</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Activos Financieros Disponibles para la Venta</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Activos Financieros mantenidos hasta el Vencimiento</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Activos por Instrumentos Financieros Derivados</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Cuentas por Cobrar Comerciales (neto)</td><td style="width:50px;white-space:nowrap;">6</td><td style="width:50px;white-space:nowrap;">86,758</td><td style="width:50px;white-space:nowrap;">63,574</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Cuentas por Cobrar a Partes Relacionadas</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otras Cuentas por Cobrar (neto)</td><td style="width:50px;white-space:nowrap;">7</td><td style="width:50px;white-space:nowrap;">12,804</td><td style="width:50px;white-space:nowrap;">10,726</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Existencias (neto)</td><td style="width:50px;white-space:nowrap;">8</td><td style="width:50px;white-space:nowrap;">181,404</td><td style="width:50px;white-space:nowrap;">130,716</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Activos Biol&#243;gicos</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Activos no Corrientes mantenidos para la Venta</td><td style="width:50px;white-space:nowrap;">10</td><td style="width:50px;white-space:nowrap;">26,647</td><td style="width:50px;white-space:nowrap;">6,023</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Gastos Diferidos</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otros Activos</td><td style="width:50px;white-space:nowrap;">9</td><td style="width:50px;white-space:nowrap;">11,136</td><td style="width:50px;white-space:nowrap;">15,132</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Total Activo Corriente</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">387,707</td><td class="pinta" style="width:50px;white-space:nowrap;">342,085</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Activo No Corriente</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Inversiones Financieras</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">386,544</td><td style="width:50px;white-space:nowrap;">229,580</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Activos Financieros Disponibles para la Venta</td><td style="width:50px;white-space:nowrap;">11</td><td style="width:50px;white-space:nowrap;">386,544</td><td style="width:50px;white-space:nowrap;">229,580</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Activos Financieros mantenidos hasta el Vencimiento</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Activos por Instrumentos Financieros Derivados</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Inversiones al M&#233;todo de Participaci&#243;n</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otras Inversiones Financieras</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Cuentas por Cobrar Comerciales</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Cuentas por Cobrar a Partes Relacionadas</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otras Cuentas por Cobrar</td><td style="width:50px;white-space:nowrap;">7</td><td style="width:50px;white-space:nowrap;">148</td><td style="width:50px;white-space:nowrap;">128</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Existencias (neto)</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Activos Biol&#243;gicos</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Inversiones Inmobiliarias</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">1,559</td><td style="width:50px;white-space:nowrap;">1,556</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Inmuebles,  Maquinaria y Equipo (neto)</td><td style="width:50px;white-space:nowrap;">12</td><td style="width:50px;white-space:nowrap;">222,888</td><td style="width:50px;white-space:nowrap;">217,341</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Activos  Intangibles (neto)</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Activo por Impuesto a la Renta y Participaciones Diferidos</td><td style="width:50px;white-space:nowrap;">31</td><td style="width:50px;white-space:nowrap;">4,529</td><td style="width:50px;white-space:nowrap;">4,882</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Cr&#233;dito Mercantil</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otros Activos</td><td style="width:50px;white-space:nowrap;">9</td><td style="width:50px;white-space:nowrap;">26,710</td><td style="width:50px;white-space:nowrap;">20,931</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Total Activo No Corriente</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">642,378</td><td class="pinta" style="width:50px;white-space:nowrap;">474,418</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">TOTAL ACTIVO</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">1,030,085</td><td class="pinta" style="width:50px;white-space:nowrap;">816,503</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Pasivo y Patrimonio</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Pasivo Corriente</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Sobregiros Bancarios</td><td style="width:50px;white-space:nowrap;">13</td><td style="width:50px;white-space:nowrap;">385</td><td style="width:50px;white-space:nowrap;">782</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Obligaciones Financieras</td><td style="width:50px;white-space:nowrap;">13</td><td style="width:50px;white-space:nowrap;">131,884</td><td style="width:50px;white-space:nowrap;">68,809</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Cuentas por Pagar Comerciales</td><td style="width:50px;white-space:nowrap;">14</td><td style="width:50px;white-space:nowrap;">23,632</td><td style="width:50px;white-space:nowrap;">18,147</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Cuentas por Pagar a Partes Relacionadas</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Impuesto a la Renta y Participaciones Corrientes</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otras Cuentas por Pagar</td><td style="width:50px;white-space:nowrap;">15, 16, 17 y 18</td><td style="width:50px;white-space:nowrap;">70,233</td><td style="width:50px;white-space:nowrap;">43,359</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Provisiones</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Pasivos mantenidos para la Venta</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Total Pasivo Corriente</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">226,134</td><td class="pinta" style="width:50px;white-space:nowrap;">131,097</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Pasivo No Corriente</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Obligaciones Financieras</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Cuentas por Pagar Comerciales</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Cuentas por Pagar a Partes Relacionadas</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Pasivo por Impuesto a la Renta y Participaciones Diferidos</td><td style="width:50px;white-space:nowrap;">31</td><td style="width:50px;white-space:nowrap;">9,031</td><td style="width:50px;white-space:nowrap;">8,397</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otras Cuentas por Pagar</td><td style="width:50px;white-space:nowrap;">16 y 18</td><td style="width:50px;white-space:nowrap;">30,960</td><td style="width:50px;white-space:nowrap;">44,835</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Provisiones</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Ingresos Diferidos (netos)</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Total Pasivo No Corriente</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">39,991</td><td class="pinta" style="width:50px;white-space:nowrap;">53,232</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Total Pasivo</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">266,125</td><td class="pinta" style="width:50px;white-space:nowrap;">184,329</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Patrimonio Neto</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Capital</td><td style="width:50px;white-space:nowrap;">19</td><td style="width:50px;white-space:nowrap;">243,179</td><td style="width:50px;white-space:nowrap;">248,456</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Acciones de Inversi&#243;n</td><td style="width:50px;white-space:nowrap;">20</td><td style="width:50px;white-space:nowrap;">20,217</td><td style="width:50px;white-space:nowrap;">21,968</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Capital Adicional</td><td style="width:50px;white-space:nowrap;">21</td><td style="width:50px;white-space:nowrap;">12,985</td><td style="width:50px;white-space:nowrap;">19,570</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Resultados no Realizados</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">280,835</td><td style="width:50px;white-space:nowrap;">142,163</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Reservas Legales</td><td style="width:50px;white-space:nowrap;">22</td><td style="width:50px;white-space:nowrap;">41,199</td><td style="width:50px;white-space:nowrap;">36,695</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otras Reservas</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Resultados Acumulados</td><td style="width:50px;white-space:nowrap;">23</td><td style="width:50px;white-space:nowrap;">116,663</td><td style="width:50px;white-space:nowrap;">117,939</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Diferencias de Conversi&#243;n</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Total Patrimonio Neto atribuible a la Matriz</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">715,078</td><td style="width:50px;white-space:nowrap;">586,791</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Intereses Minoritarios</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">48,882</td><td style="width:50px;white-space:nowrap;">45,383</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Total Patrimonio Neto</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">763,960</td><td class="pinta" style="width:50px;white-space:nowrap;">632,174</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">TOTAL PASIVO Y PATRIMONIO NETO</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">1,030,085</td><td class="pinta" style="width:50px;white-space:nowrap;">816,503</td>
+		</tr>
+	</table>
+</div></form><form method="post" action="./ReporteEstadosFinanciero.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+<span style="font-weight:bold;">ESTADO DE GANANCIAS Y PERDIDAS</span><div>
+	<table cellspacing="0" align="Right" rules="all" border="1" id="gvReporte1" style="width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#337AB6;font-family:Calibri;font-size:8pt;">
+			<th scope="col">Cuenta</th><th scope="col" style="white-space:nowrap;">NOTA</th><th scope="col" style="white-space:nowrap;">2007</th><th scope="col" style="white-space:nowrap;">2006</th>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Ingresos Operacionales</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Ventas Netas (ingresos operacionales)</td><td style="width:50px;white-space:nowrap;">25</td><td style="width:50px;white-space:nowrap;">416,245</td><td style="width:50px;white-space:nowrap;">384,720</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otros Ingresos Operacionales</td><td style="width:50px;white-space:nowrap;">5, 11 y 24</td><td style="width:50px;white-space:nowrap;">32,175</td><td style="width:50px;white-space:nowrap;">57,068</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Total de Ingresos Brutos</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">448,420</td><td class="pinta" style="width:50px;white-space:nowrap;">441,788</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Costo de Ventas (Operacionales)</td><td style="width:50px;white-space:nowrap;">26</td><td style="width:50px;white-space:nowrap;">(342,253)</td><td style="width:50px;white-space:nowrap;">(311,166)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otros Costos Operacionales</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Total Costos Operacionales</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(342,253)</td><td style="width:50px;white-space:nowrap;">(311,166)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Utilidad Bruta</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">106,167</td><td class="pinta" style="width:50px;white-space:nowrap;">130,622</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Gastos de Ventas</td><td style="width:50px;white-space:nowrap;">27</td><td style="width:50px;white-space:nowrap;">(27,324)</td><td style="width:50px;white-space:nowrap;">(27,415)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Gastos de Administraci&#243;n</td><td style="width:50px;white-space:nowrap;">28</td><td style="width:50px;white-space:nowrap;">(33,511)</td><td style="width:50px;white-space:nowrap;">(33,140)</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Ganancia (P&#233;rdida) por Venta de Activos</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otros Ingresos</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">2,025</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otros Gastos</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(92)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Utilidad Operativa</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">47,357</td><td class="pinta" style="width:50px;white-space:nowrap;">69,975</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Ingresos Financieros</td><td style="width:50px;white-space:nowrap;">29</td><td style="width:50px;white-space:nowrap;">8,364</td><td style="width:50px;white-space:nowrap;">9,205</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Gastos Financieros</td><td style="width:50px;white-space:nowrap;">30</td><td style="width:50px;white-space:nowrap;">(14,350)</td><td style="width:50px;white-space:nowrap;">(11,606)</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Participaci&#243;n en los Resultados de Partes Relacionadas por el M&#233;todo de Participaci&#243;n</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Ganancia (P&#233;rdida) por Instrumentos Financieros Derivados</td><td style="width:50px;white-space:nowrap;">36</td><td style="width:50px;white-space:nowrap;">(1,333)</td><td style="width:50px;white-space:nowrap;">2,408</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Resultado antes de Participaciones y del Impuesto a la Renta</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">40,038</td><td class="pinta" style="width:50px;white-space:nowrap;">69,982</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Participaci&#243;n de los trabajadores</td><td style="width:50px;white-space:nowrap;">31 a</td><td style="width:50px;white-space:nowrap;">(1,903)</td><td style="width:50px;white-space:nowrap;">(1,662)</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Impuesto a la Renta</td><td style="width:50px;white-space:nowrap;">31 a</td><td style="width:50px;white-space:nowrap;">(5,092)</td><td style="width:50px;white-space:nowrap;">(4,810)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Utilidad (P&#233;rdida)  Neta de Actividades Cont&#237;nuas</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">33,043</td><td style="width:50px;white-space:nowrap;">63,510</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Ingreso (Gasto) Neto de Operaciones en Discontinuaci&#243;n</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Utilidad (Perdida)  Neta del Ejercicio</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">33,043</td><td class="pinta" style="width:50px;white-space:nowrap;">63,510</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Utilidad (P&#233;rdida) Neta atribuible a:</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>La Matriz</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">30,122</td><td style="width:50px;white-space:nowrap;">59,944</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Intereses Minoritarios</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">2,921</td><td style="width:50px;white-space:nowrap;">3,566</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Utilidad (P&#233;rdida) Neta del Ejercicio</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Utilidad (p&#233;rdida) b&#225;sica por acci&#243;n com&#250;n</td><td style="width:50px;white-space:nowrap;">32</td><td style="width:50px;white-space:nowrap;">1.235</td><td style="width:50px;white-space:nowrap;">2.215</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Utilidad (p&#233;rdida) b&#225;sica por acci&#243;n de inversi&#243;n</td><td style="width:50px;white-space:nowrap;">32</td><td style="width:50px;white-space:nowrap;">0.124</td><td style="width:50px;white-space:nowrap;">0.221</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Utilidad (p&#233;rdida) diluida por acci&#243;n com&#250;n</td><td style="width:50px;white-space:nowrap;">32</td><td style="width:50px;white-space:nowrap;">1.235</td><td style="width:50px;white-space:nowrap;">2.215</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Utilidad (p&#233;rdida) diluida por acci&#243;n de inversi&#243;n</td><td style="width:50px;white-space:nowrap;">32</td><td style="width:50px;white-space:nowrap;">0.124</td><td style="width:50px;white-space:nowrap;">0.221</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Utilidad (P&#233;rdida) Neta de Actividades Cont&#237;nuas</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Utilidad (P&#233;rdida) B&#225;sica por Acci&#243;n Com&#250;n</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Utilidad (P&#233;rdida) B&#225;sica por Acci&#243;n de Inversi&#243;n</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Utilidad (P&#233;rdida) Diluida por Acci&#243;n Com&#250;n</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Utilidad (P&#233;rdida) Diluida por Acci&#243;n de Inversi&#243;n</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr>
+	</table>
+</div></form><form method="post" action="./ReporteEstadosFinanciero.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+<span style="font-weight:bold;">ESTADO DE CAMBIOS EN EL PATRIMONIO NETO</span><div>
+	<table cellspacing="0" align="Right" rules="all" border="1" id="gvReporte2" style="width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#337AB6;font-family:Calibri;font-size:8pt;">
+			<th scope="col">CCUENTA</th><th scope="col">Cuenta</th><th scope="col">Capital</th><th scope="col">Capital Adicional</th><th scope="col">Acciones de Inversi&#243;n</th><th scope="col">Resultados no Realizados</th><th scope="col">Reservas Legales</th><th scope="col">Otras Reservas</th><th scope="col">Resultados Acumulados</th><th scope="col">Diferencias de Conversi&#243;n</th><th scope="col">Total Patrimonio Neto atribuible a la Matriz</th><th scope="col">Intereses Minoritarios</th><th scope="col">Total Patrimonio Neto</th>
+		</tr><tr style="color:Black;background-color:LightGrey;font-size:8pt;">
+			<td>4D0101</td><td>SALDOS AL 1ERO DE ENERO DE 2006</td><td>249,776</td><td>19,329</td><td>22,129</td><td>29,731</td><td>33,589</td><td>&nbsp;</td><td>80,114</td><td>&nbsp;</td><td>434,668</td><td>42,058</td><td>476,726</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4DT001</td><td>Ganancia (P&#233;rdida) por valor razonable de:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0108</td><td>- Inmuebles, Maquinaria y Equipo</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0120</td><td>- Activos Financieros disponibles para la Venta</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0121</td><td>Ganancia (P&#233;rdida) por Coberturas de Flujo de Efectivo y/o Coberturas de Inversi&#243;n Neta en un Negocio en el Extranjero </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0122</td><td>Ganancia (P&#233;rdida) por Diferencias de Cambio</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0117</td><td>Ingresos (gastos) reconocidos directamente en Patrimonio</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0123</td><td>Transferencias netas de Resultados no Realizados</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>112,816</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>112,816</td><td>(251)</td><td>112,565</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0125</td><td>Otras Transferencias netas</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0111</td><td>Utilidad (P&#233;rdida) Neta del Ejercicio</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>59,944</td><td>&nbsp;</td><td>59,944</td><td>3,566</td><td>63,510</td>
+		</tr><tr style="color:Black;background-color:LightGrey;font-size:8pt;">
+			<td>4D0119</td><td>Total de ingresos y gastos reconocidos </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>112,816</td><td>&nbsp;</td><td>&nbsp;</td><td>59,944</td><td>&nbsp;</td><td>172,760</td><td>3,315</td><td>176,075</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0102</td><td>Efecto acumulado de Cambios en Pol&#237;ticas Contables y Correcci&#243;n de Errores</td><td>&nbsp;</td><td>(19)</td><td>&nbsp;</td><td>(384)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>(403)</td><td>10</td><td>(393)</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0103</td><td>Distribuciones o Asignaciones a reservas de utilidades efectuadas en el per&#237;odo</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>3,106</td><td>&nbsp;</td><td>(3,106)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0104</td><td>Dividendos declarados y Participaciones acordados durante el per&#237;odo</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>(19,013)</td><td>&nbsp;</td><td>(19,013)</td><td>&nbsp;</td><td>(19,013)</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0105</td><td>Nuevos Aportes de accionistas</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0110</td><td>Reducci&#243;n de Capital o redenci&#243;n de Acc.  de Inversi&#243;n</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0114</td><td>Acciones en Tesoreria</td><td>(1,320)</td><td>260</td><td>(161)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>(1,221)</td><td>&nbsp;</td><td>(1,221)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0109</td><td>Capitalizaci&#243;n de partidas patrimoniales</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0107</td><td>Incrementos o disminuciones por fusiones o escisiones</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0124</td><td>Conversi&#243;n a moneda de presentaci&#243;n</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0112</td><td>Otros incrementos o disminuciones de las partidas patrimoniales</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0118</td><td>Variaci&#243;n de Intereses Minoritarios</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:Black;background-color:LightGrey;font-size:8pt;">
+			<td>4D01ST</td><td>SALDOS AL 31 DE DICIEMBRE DE 2006</td><td>248,456</td><td>19,570</td><td>21,968</td><td>142,163</td><td>36,695</td><td>&nbsp;</td><td>117,939</td><td>&nbsp;</td><td>586,791</td><td>45,383</td><td>632,174</td>
+		</tr><tr style="color:Black;background-color:LightGrey;font-size:8pt;">
+			<td>4D0201</td><td>SALDOS AL 1ERO DE ENERO DE 2007</td><td>248,456</td><td>19,570</td><td>21,968</td><td>142,163</td><td>36,695</td><td>&nbsp;</td><td>117,939</td><td>&nbsp;</td><td>586,791</td><td>45,383</td><td>632,174</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4DT002</td><td>Ganancia (P&#233;rdida) por valor razonable de:</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0208</td><td>- Inmuebles, Maquinaria y Equipo</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0220</td><td>- Activos Financieros disponibles para la Venta</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0221</td><td>Ganancia (P&#233;rdida) por Coberturas de Flujo de Efectivo y/o Coberturas de Inversi&#243;n Neta en un Negocio en el Extranjero </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0222</td><td>Ganancia (P&#233;rdida) por Diferencias de Cambio</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0217</td><td>Ingresos (gastos) reconocidos directamente en Patrimonio</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0223</td><td>Transferencias netas de Resultados no Realizados</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>139,508</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>139,508</td><td>219</td><td>139,727</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0225</td><td>Otras Transferencias netas</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0211</td><td>Utilidad (P&#233;rdida) Neta del Ejercicio</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>30,122</td><td>&nbsp;</td><td>30,122</td><td>2,921</td><td>33,043</td>
+		</tr><tr style="color:Black;background-color:LightGrey;font-size:8pt;">
+			<td>4D0219</td><td>Total de ingresos y gastos reconocidos </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>139,508</td><td>&nbsp;</td><td>&nbsp;</td><td>30,122</td><td>&nbsp;</td><td>169,630</td><td>3,140</td><td>172,770</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0202</td><td>Efecto acumulado de Cambios en Pol&#237;ticas Contables y Correcci&#243;n de Errores</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>(836)</td><td>&nbsp;</td><td>&nbsp;</td><td>176</td><td>&nbsp;</td><td>(660)</td><td>359</td><td>(301)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0203</td><td>Distribuciones o Asignaciones a reservas de utilidades efectuadas en el per&#237;odo</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>4,504</td><td>&nbsp;</td><td>(4,504)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0204</td><td>Dividendos declarados y Participaciones acordados durante el per&#237;odo</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>(27,070)</td><td>&nbsp;</td><td>(27,070)</td><td>&nbsp;</td><td>(27,070)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0205</td><td>Nuevos Aportes de accionistas</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0210</td><td>Reducci&#243;n de Capital o redenci&#243;n de Acc.  de Inversi&#243;n</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0214</td><td>Acciones en Tesoreria</td><td>(5,277)</td><td>(6,585)</td><td>(1,751)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>(13,613)</td><td>&nbsp;</td><td>(13,613)</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0209</td><td>Capitalizaci&#243;n de partidas patrimoniales</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0207</td><td>Incrementos o disminuciones por fusiones o escisiones</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0224</td><td>Conversi&#243;n a moneda de presentaci&#243;n</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="margen_eeff">4D0212</td><td>Otros incrementos o disminuciones de las partidas patrimoniales</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="margen_eeff">4D0218</td><td>Variaci&#243;n de Intereses Minoritarios</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+		</tr><tr style="color:Black;background-color:LightGrey;font-size:8pt;">
+			<td>4D02ST</td><td>SALDOS AL 31 DE DICIEMBRE DE 2007</td><td>243,179</td><td>12,985</td><td>20,217</td><td>280,835</td><td>41,199</td><td>&nbsp;</td><td>116,663</td><td>&nbsp;</td><td>715,078</td><td>48,882</td><td>763,960</td>
+		</tr>
+	</table>
+</div></form><form method="post" action="./ReporteEstadosFinanciero.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+<span style="font-weight:bold;">ESTADO DE FLUJO DE EFECTIVO</span><div>
+	<table cellspacing="0" align="Right" rules="all" border="1" id="gvReporte3" style="width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#337AB6;font-family:Calibri;font-size:8pt;">
+			<th scope="col">Cuenta</th><th scope="col" style="white-space:nowrap;">NOTA</th><th scope="col" style="white-space:nowrap;">2007</th><th scope="col" style="white-space:nowrap;">2006</th>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">ACTIVIDADES DE OPERACI&#211;N</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Cobranza (entradas) por:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Venta de Bienes o Servicios (Ingresos Operacionales)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">413,558</td><td style="width:50px;white-space:nowrap;">376,157</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Honorarios y Comisiones</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Intereses y Rendimientos (no incluidos en la Actividad de Inversi&#243;n)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Dividendos (no incluidos en la Actividad de Inversi&#243;n)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">6,998</td><td style="width:50px;white-space:nowrap;">4,479</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Regal&#237;as</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otros Cobros de Efectivo Relativos a la Actividad</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">88,802</td><td style="width:50px;white-space:nowrap;">117,231</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Menos pagos (salidas) por:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Proveedores de Bienes y Servicios</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(348,324)</td><td style="width:50px;white-space:nowrap;">(249,279)</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Remuneraciones y Beneficios Sociales</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(94,423)</td><td style="width:50px;white-space:nowrap;">(87,082)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Tributos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Intereses y Rendimientos (no incluidos en la Actividad de Financiaci&#243;n)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Regal&#237;as</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otros Pagos de Efectivo Relativos a la Actividad</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(75,914)</td><td style="width:50px;white-space:nowrap;">(81,326)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Aumento (Disminuci&#243;n) del Efectivo y Equivalente de Efectivo Provenientes de Actividades de Operaci&#243;n</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">(9,303)</td><td class="pinta" style="width:50px;white-space:nowrap;">80,180</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">ACTIVIDADES DE INVERSI&#211;N</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Cobranza (entradas) por:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Prestamos a Partes Relacionadas</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Venta de Subsidiarias y otras Unidades de Negocios</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Venta de Inversiones Financieras</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">1,815</td><td style="width:50px;white-space:nowrap;">929</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Venta de Inversiones Inmobiliarias</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Venta de Inmuebles, Maquinaria y Equipo</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">258</td><td style="width:50px;white-space:nowrap;">713</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Venta de Activos Intangibles</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Intereses y Rendimientos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Dividendos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otros Cobros de Efectivo Relativos a la Actividad</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Menos pagos (salidas) por:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Prestamos a Partes Relacionadas</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Compra de Subsidiarias y otras Unidades de Negocios</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Compra de Inversiones Financieras</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(20,163)</td><td style="width:50px;white-space:nowrap;">(10,351)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Compra de Inversiones Inmobiliarias</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Compra de Inmuebles, Maquinaria y Equipo</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(27,659)</td><td style="width:50px;white-space:nowrap;">(25,975)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Desembolsos por Obras en Curso de Inmuebles, Maquinaria y Equipo</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Compra y desarrollo de Activos Intangibles</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otros Pagos de Efectivo Relativos a la Actividad</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(586)</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Aumento (Disminuci&#243;n) del Efectivo y Equivalente de Efectivo Provenientes de Actividades de Inversi&#243;n</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">(46,335)</td><td class="pinta" style="width:50px;white-space:nowrap;">(34,684)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">ACTIVIDADES DE FINANCIACION</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Cobranza (entradas) por:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Aumento de Sobregiros Bancarios</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">62,678</td><td style="width:50px;white-space:nowrap;">1,533</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Emisi&#243;n y aceptaci&#243;n de Obligaciones Financieras</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">22,241</td><td style="width:50px;white-space:nowrap;">36,034</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Emisi&#243;n de Acciones o Nuevos Aportes</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Venta de Acciones Propias (Acciones en Tesorer&#237;a)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otros Cobros de Efectivo Relativos a la Actividad</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">1,769</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Menos pagos (salidas) por:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Amortizaci&#243;n o pago de Sobregiros Bancarios</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Amortizaci&#243;n o pago de Obligaciones Financieras</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(34,312)</td><td style="width:50px;white-space:nowrap;">(31,036)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Recompra de Acciones Propias (Acciones en Tesorer&#237;a) a accionistas de la Matriz</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(13,613)</td><td style="width:50px;white-space:nowrap;">(1,221)</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Recompra de Acciones Propias (Acciones en Tesorer&#237;a) a Intereses Minoritarios</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Intereses y Rendimientos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Dividendos Pagados a accionistas de la Matriz</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(26,890)</td><td style="width:50px;white-space:nowrap;">(19,013)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Dividendos Pagados a Intereses Minoritarios</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Otros Pagos de Efectivo Relativos a la Actividad</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(21,378)</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Aumento (Dism) del Efectivo y Equivalente de Efectivo Provenientes de Actividades de Financiaci&#243;n</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">11,873</td><td class="pinta" style="width:50px;white-space:nowrap;">(35,081)</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Aumento (Disminuci&#243;n) Neto de Efectivo y Equivalente de Efectivo</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(43,765)</td><td style="width:50px;white-space:nowrap;">10,415</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Saldo Efectivo y Equivalente de Efectivo al Inicio del Ejercicio</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">63,673</td><td style="width:50px;white-space:nowrap;">53,258</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Efecto de las Diferencias de Cambio del Efectivo y Equivalente de Efectivo</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Saldo Efectivo y Equivalente de Efectivo al Finalizar el Ejercicio</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">19,908</td><td class="pinta" style="width:50px;white-space:nowrap;">63,673</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">CONCILIACI&#211;N DE LA UTILIDAD NETA CON EL EFECTIVO NETO PROVENIENTE DE ACTIVIDADES DE OPERACI&#211;N</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Utilidad (P&#233;rdida) Neta del Ejercicio</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">33,043</td><td class="pinta" style="width:50px;white-space:nowrap;">63,510</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">M&#225;s :</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Ajustes a la Utilidad (P&#233;rdida) del Ejercicio</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Estimaci&#243;n de Cuentas de Cobranza Dudosa</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Desvalorizaci&#243;n de Existencias</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Fluctuaci&#243;n del Valor de Activos Biol&#243;gicos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Depreciaci&#243;n y Deterioro de Valor del Ejercicio</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">21,936</td><td style="width:50px;white-space:nowrap;">20,753</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Amortizaci&#243;n de Activos Intangibles</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">515</td><td style="width:50px;white-space:nowrap;">692</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Amortizaci&#243;n de Otros Activos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Provisiones</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">235</td><td style="width:50px;white-space:nowrap;">474</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>P&#233;rdida en Venta de Inversiones Financieras</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>P&#233;rdida por Instrumentos Financieros Derivados</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>P&#233;rdida en Venta de Inversiones Inmobiliarias</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>P&#233;rdida en Venta de Inmuebles, Maquinaria y Equipo</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>P&#233;rdida en Venta de Activos Intangibles</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Gastos Financieros</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Participaci&#243;n en los Resultados de Partes Relacionadas (neta de dividendos recibidos en efectivo)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Impuesto a la Renta y Participaci&#243;n de los Trabajadores</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">987</td><td style="width:50px;white-space:nowrap;">4,467</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otros</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Menos:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Ajustes a la Utilidad (P&#233;rdida) del Ejercicio</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Fluctuaci&#243;n del Valor de Activos Biol&#243;gicos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Utilidad en Venta de Inversiones Financieras</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Ganancia por Instrumentos Financieros Derivados</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Utilidad en Venta de Inversiones Inmobiliarias</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Utilidad en Venta de Inmuebles, Maquinaria y Equipo</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Utilidad en Venta de Activos Intangibles</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Ingresos Financieros</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Participaci&#243;n en los Resultados de Partes Relacionadas (neta de dividendos recibidos en efectivo)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Impuesto a la Renta y Participaci&#243;n de los Trabajadores</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Otros</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(16,345)</td><td style="width:50px;white-space:nowrap;">(29,163)</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">CARGOS Y ABONOS POR CAMBIOS NETOS EN LOS ACTIVOS Y PASIVOS</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>(Aumento) Disminuci&#243;n de Cuentas por Cobrar Comerciales</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>(Aumento) Disminuci&#243;n de Cuentas por Cobrar a Partes Relacionadas</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>(Aumento) Disminuci&#243;n de Otras Cuentas por Cobrar</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(49,188)</td><td style="width:50px;white-space:nowrap;">(9,427)</td>
+		</tr><tr style="font-size:8pt;">
+			<td>(Aumento) Disminuci&#243;n en Existencias</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">(50,642)</td><td style="width:50px;white-space:nowrap;">11,855</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>(Aumento) Disminuci&#243;n en Activos Biol&#243;gicos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>(Aumento) Disminuci&#243;n de Activos no Corrientes mantenidos para la Venta</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>(Aumento) Disminuci&#243;n en Gastos Diferidos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>(Aumento) Disminuci&#243;n de Otros Activos</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">20,664</td><td style="width:50px;white-space:nowrap;">12,683</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Aumento (Disminuci&#243;n) de Cuentas por Pagar Comerciales</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">5,485</td><td style="width:50px;white-space:nowrap;">3,018</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Aumento (Disminuci&#243;n) de Cuentas por Pagar a Partes Relacionadas</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Aumento (Disminuci&#243;n) de Impuesto a la Renta y Particip. Corrientes</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Aumento (Disminuci&#243;n) de Otras Cuentas por Pagar</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">24,007</td><td style="width:50px;white-space:nowrap;">1,318</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Aumento (Disminuci&#243;n) de Provisiones</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Aumento (Disminuci&#243;n) de Pasivos mantenidos para la Venta</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Cobros por:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Intereses y Rendimientos (no incluidos en la Actividad de Inversi&#243;n)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Dividendos  (no incluidos en la Actividad de Inversi&#243;n)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Diferencia de Cambio</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td class="pinta">Pagos por:</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Impuesto a la Renta y Participaci&#243;n de los Trabajadores</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Intereses y Rendimientos (no incluidos en la Actividad de Financiaci&#243;n)</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td>Provisiones</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td>Diferencia de Cambio</td><td style="white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td><td style="width:50px;white-space:nowrap;">0</td>
+		</tr><tr style="font-size:8pt;">
+			<td class="pinta">Aumento (Dism) del Efectivo y Equivalente de Efectivo Provenientes de la Actividad de Operaci&#243;n</td><td class="pinta" style="white-space:nowrap;">0</td><td class="pinta" style="width:50px;white-space:nowrap;">(9,303)</td><td class="pinta" style="width:50px;white-space:nowrap;">80,180</td>
+		</tr>
+	</table>
+</div></form><form method="post" action="./ReporteEstadosFinanciero.aspx" id="ctl00">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+<span>FIRMANTES</span><div>
+	<table cellspacing="0" align="Right" rules="all" border="1" id="gvReporte4" style="width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#337AB6;font-family:Calibri;font-size:8pt;">
+			<th scope="col" style="width:50px;white-space:nowrap;">Firmante</th><th scope="col" style="width:50px;white-space:nowrap;">Fecha</th>
+		</tr><tr style="font-size:8pt;">
+			<td align="left" class="pinta" style="width:50px;white-space:nowrap;">Archivo Estructurado Unificado</td><td style="width:50px;white-space:nowrap;">&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td style="width:50px;white-space:nowrap;">Christian Gabriel Harmsen Diaz|Representante Legal</td><td style="width:50px;white-space:nowrap;">19-MAY-08 1:05:42 PM</td>
+		</tr><tr style="font-size:8pt;">
+			<td align="left" class="pinta" style="width:50px;white-space:nowrap;">Informacion Financiera Auditada AC(Dictamen,EEFF y Notas)</td><td style="width:50px;white-space:nowrap;">&nbsp;</td>
+		</tr><tr style="color:#000000;background-color:#FFFFFF;font-size:8pt;">
+			<td style="width:50px;white-space:nowrap;">Christian Gabriel Harmsen Diaz|Representante Legal</td><td style="width:50px;white-space:nowrap;">19-MAY-08 1:06:44 PM</td>
+		</tr>
+	</table>
+</div></form>
